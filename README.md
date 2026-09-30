@@ -123,6 +123,3 @@ pip install torch numpy pandas scikit-learn matplotlib scipy pyDOE openpyxl
 - Defect-index formulas (BSI, CSI, solidification stress) use empirical correlations from literature and should be validated against experimental data.
 - Potential extensions: parameterize laser power/scan speed as network inputs, add boundary conditions, use a Fourier feature/SIREN-style network for higher-frequency melt-pool fields.
 
-## License
-
-Add a license of your choice (e.g. MIT) if you intend to share this publicly.
